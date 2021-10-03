@@ -8,6 +8,8 @@ public class MissileBehaviour : MonoBehaviour
     public float speed = 5;
     public int minTimeToDestroy = 8;
     public int maxTimeToDestroy = 15;
+    public float explosionLingerTime = 0.1f;
+
     public Transform explosionPoint;
 
     System.Random random = new System.Random();
@@ -26,12 +28,14 @@ public class MissileBehaviour : MonoBehaviour
 
     IEnumerator MissileTimer()
     {
-        float timeToDestroy = (random.Next(minTimeToDestroy, maxTimeToDestroy))/10f;
+        float timeToDestroy = random.Next(minTimeToDestroy, maxTimeToDestroy)/10f;
         yield return new WaitForSeconds(timeToDestroy);
         GetComponent<SpriteRenderer>().enabled = false;
         Vector3 explosionLocation = explosionPoint.position;
-        GameObject explosionInstantiation = Instantiate(explosion, explosionLocation, transform.rotation);
-        Destroy(explosionInstantiation,0.7f);
+        GameObject explosionInstantiation = Instantiate(explosion, explosionLocation, Quaternion.Euler(0f, 0f, 0f));
+        Destroy(explosionInstantiation,2f);
+        yield return new WaitForSeconds(explosionLingerTime);
+        explosionInstantiation.GetComponent<CapsuleCollider2D>().enabled = false;
         Destroy(gameObject);
     }
 
