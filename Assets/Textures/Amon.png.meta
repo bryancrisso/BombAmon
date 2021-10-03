@@ -1,0 +1,389 @@
+fileFormatVersion: 2
+guid: 1bac1d27f148b09429aa407c774cff99
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8154669953950584933
+    second: Amon_shin_r
+  - first:
+      213: 9075097333610564172
+    second: Amon_auto_x2_edited_1
+  - first:
+      213: 8663669963970320288
+    second: Amon_thigh_r
+  - first:
+      213: -627063967240421074
+    second: Amon_thigh_l
+  - first:
+      213: 7343811628266228988
+    second: Amon_shin_l
+  - first:
+      213: 3353456258449956093
+    second: Amon_body
+  - first:
+      213: 201505543324626751
+    second: Amon_arm
+  - first:
+      213: -5091086430682887139
+    second: Amon_head
+  - first:
+      213: 9102463468574795325
+    second: Amon_auto_x2_edited_8
+  - first:
+      213: -2815371590220821659
+    second: Amon_auto_x2_edited_9
+  - first:
+      213: 5631441876723686039
+    second: Amon_auto_x2_edited_10
+  - first:
+      213: 29284916991155138
+    second: Amon_auto_x2_edited_11
+  - first:
+      213: -3735908061383356637
+    second: Amon_auto_x2_edited_12
+  - first:
+      213: -2205969760557813423
+    second: Amon_auto_x2_edited_13
+  - first:
+      213: -8290527928294052745
+    second: Amon_auto_x2_edited_14
+  - first:
+      213: 4268083997235299550
+    second: Amon_auto_x2_edited_15
+  - first:
+      213: -6976499931118748965
+    second: Amon_auto_x2_edited_16
+  - first:
+      213: 8579057995104382807
+    second: Amon_auto_x2_edited_17
+  - first:
+      213: 3392394025084446187
+    second: Amon_auto_x2_edited_18
+  - first:
+      213: -3252421661572296440
+    second: Amon_auto_x2_edited_19
+  - first:
+      213: 1131473640148124411
+    second: Amon_auto_x2_edited_20
+  - first:
+      213: 3206897393037751104
+    second: Amon_auto_x2_edited_21
+  - first:
+      213: -4022060921034412541
+    second: Amon_auto_x2_edited_22
+  - first:
+      213: 3147864721535636897
+    second: Amon_auto_x2_edited_23
+  - first:
+      213: -6815209911796370638
+    second: Amon_auto_x2_edited_24
+  - first:
+      213: 9004448702403504113
+    second: Amon_auto_x2_edited_25
+  - first:
+      213: 6992506185865613192
+    second: Amon_auto_x2_edited_26
+  - first:
+      213: 6208252488263010083
+    second: Amon_auto_x2_edited_27
+  - first:
+      213: -343149928476473536
+    second: Amon_auto_x2_edited_28
+  - first:
+      213: -1034007304042164570
+    second: Amon_auto_x2_edited_29
+  - first:
+      213: 5230531001101655396
+    second: Amon_auto_x2_edited_30
+  - first:
+      213: -3861431657012241401
+    second: Amon_auto_x2_edited_31
+  - first:
+      213: -8121635135563969525
+    second: Amon_auto_x2_edited_32
+  - first:
+      213: 2198631419393528153
+    second: Amon_auto_x2_edited_33
+  - first:
+      213: 1907078525114960339
+    second: Amon_auto_x2_edited_34
+  - first:
+      213: -4389206394610561494
+    second: Amon_auto_x2_edited_35
+  - first:
+      213: -5202573155616965117
+    second: Amon_auto_x2_edited_36
+  - first:
+      213: -5878559177967934226
+    second: Amon_auto_x2_edited_37
+  - first:
+      213: 2438689369033830063
+    second: Amon_auto_x2_edited_38
+  - first:
+      213: 8450557367292645365
+    second: Amon_auto_x2_edited_39
+  - first:
+      213: -3368339283724515083
+    second: Amon_auto_x2_edited_40
+  - first:
+      213: -8943731692242302960
+    second: Amon_auto_x2_edited_41
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Amon_shin_r
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 178
+        width: 207
+        height: 128
+      alignment: 9
+      pivot: {x: 1, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f6936d1eac4de80800000000000000
+      internalID: -8154669953950584933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amon_thigh_r
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 214
+        width: 130
+        height: 107
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a71cad1ee98b3870800000000000000
+      internalID: 8663669963970320288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amon_thigh_l
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 173
+        width: 91
+        height: 148
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e210035e4a83c47f0800000000000000
+      internalID: -627063967240421074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amon_shin_l
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 3
+        width: 118
+        height: 170
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc013844c57ae560800000000000000
+      internalID: 7343811628266228988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amon_body
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 302
+        width: 236
+        height: 242
+      alignment: 9
+      pivot: {x: 0.66, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc58be13bed98e20800000000000000
+      internalID: 3353456258449956093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amon_arm
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 491
+        width: 223
+        height: 158
+      alignment: 9
+      pivot: {x: 0, y: 0.17}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fe22a5934ebc200800000000000000
+      internalID: 201505543324626751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amon_head
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 543
+        width: 89
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cc5527dd3d859b0800000000000000
+      internalID: -5091086430682887139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
